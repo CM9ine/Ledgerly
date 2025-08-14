@@ -208,3 +208,6 @@ __marimo__/
 
 # Private Folders
 data/
+
+# Database
+*.db
